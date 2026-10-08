@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyComposeApplication</string>
+    <string name="title_activity_pdf">PdfActivity</string>
+</resources>
